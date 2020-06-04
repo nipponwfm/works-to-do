@@ -1,0 +1,4 @@
+.selected::after {
+    content: '\f020';
+    float:right;
+}
