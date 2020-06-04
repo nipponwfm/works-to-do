@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,gBACI,eAAgB,CAChB,WACJ","file":"main.0c4d6553.chunk.css","sourcesContent":[".selected::after {\r\n    content: '\\f020';\r\n    float:right;\r\n}"]}
